@@ -1,0 +1,25 @@
+NORTHWIND LOGISTICS INC.
+450 Harbour Street, Toronto, ON M5J 2N3
+
+EARNINGS STATEMENT
+
+Employee: Priya Raman
+Employee ID: 10482
+Department: Operations
+Hire Date: 2021-03-15
+Annual Salary: $78,000.00
+Pay Frequency: Bi-weekly
+
+Pay Period: 2026-10-19 to 2026-11-01
+Pay Date: 2026-11-06
+
+EARNINGS               CURRENT       YTD
+Regular Salary         3,000.00      63,000.00
+
+DEDUCTIONS
+Federal Tax              412.50       8,662.50
+CPP                      178.20       3,742.20
+EI                        49.20       1,033.20
+
+Gross Pay              3,000.00      63,000.00
+Net Pay                2,360.10      49,562.10
